@@ -91,3 +91,47 @@ They’re typically organized as **Fundamentals → Intermediate → Advanced/Ex
   *Covers:* recurring video episodes across Microsoft Security topics (episode-based learning).
 
 ---
+
+## Azure
+
+- [ ] **Azure Network Security Ninja**  
+  https://techcommunity.microsoft.com/blog/azurenetworksecurityblog/azure-network-security-ninja-training/2356101  
+  *Covers:* Azure network security from basics to advanced design and operations (updated over time).
+
+---
+
+## Microsoft Purview (Compliance / Risk / Governance)
+
+- [ ] **Purview Information Protection Ninja**  
+  https://aka.ms/MIPNinja  
+  *Covers:* classification + sensitivity labeling fundamentals through advanced protection scenarios; curated docs/videos/guides.
+
+- [ ] **Purview Data Loss Prevention (DLP) Ninja**  
+  https://aka.ms/DLPNinja  
+  *Covers:* DLP policy design and operations, reporting, common scenarios, and practical governance guidance.
+
+- [ ] **Purview eDiscovery Ninja**  
+  https://techcommunity.microsoft.com/blog/microsoft-security-blog/become-a-microsoft-purview-ediscovery-ninja/2793108  
+  *Covers:* eDiscovery workflows, case handling, and solution mastery from beginner to advanced.
+
+- [ ] **Purview Insider Risk Management Ninja**  
+  https://techcommunity.microsoft.com/blog/microsoft-security-blog/become-an-insider-risk-management-ninja/3282306  
+  *Covers:* insider risk policies and investigations; signals, privacy-by-design concepts, and operational usage.
+
+- [ ] **Purview Data Lifecycle & Records Management Ninja**  
+  https://techcommunity.microsoft.com/blog/microsoft-security-blog/become-a-microsoft-purview-data-lifecycle-and-records-management-ninja/3874829  
+  *Covers:* retention + records management; labels/policies, scenarios, prerequisites, and common patterns.
+
+- [ ] **Purview Communication Compliance Ninja**  
+  https://aka.ms/communicationcomplianceninja  
+  *Covers:* policy-driven detection + review workflows for regulatory/business conduct scenarios (investigations + reporting).
+
+- [ ] **Purview Compliance Manager Ninja**  
+  https://aka.ms/compliancemanagerninja  
+  *Covers:* assessments, controls mapping, improvement actions, and operational compliance management using Compliance Manager.
+
+- [ ] **Microsoft Priva Ninja**  
+  https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888  
+  *Covers:* privacy risk management and related scenarios; curated videos, docs, and learning paths.
+
+---
