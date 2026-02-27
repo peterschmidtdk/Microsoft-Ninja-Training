@@ -133,5 +133,3 @@ They’re typically organized as **Fundamentals → Intermediate → Advanced/Ex
 - [ ] **Microsoft Priva Ninja**  
   https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-priva-ninja/ba-p/3876888  
   *Covers:* privacy risk management and related scenarios; curated videos, docs, and learning paths.
-
----
