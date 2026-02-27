@@ -75,3 +75,19 @@ They’re typically organized as **Fundamentals → Intermediate → Advanced/Ex
   *Covers:* curated getting-started + continuous learning resources for Defender Experts managed services.
 
 ---
+
+## Microsoft Security (Operations / Programs)
+
+- [ ] **Microsoft Security Exposure Management Ninja (MSEM)**  
+  https://techcommunity.microsoft.com/blog/securityexposuremanagement/microsoft-security-exposure-management-ninja-training/4444285  
+  *Covers:* exposure management concepts + implementation scenarios; how to plan and operationalize MSEM.
+
+- [ ] **Microsoft Incident Response Ninja Hub**  
+  https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/welcome-to-the-microsoft-incident-response-ninja-hub/4243594  
+  *Covers:* IR guidance, playbooks, case studies, hunting tips, and practical “how we do it” resources.
+
+- [ ] **Virtual Ninja Show (ongoing video series)**  
+  https://aka.ms/NinjaShow  
+  *Covers:* recurring video episodes across Microsoft Security topics (episode-based learning).
+
+---
