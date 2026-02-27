@@ -7,3 +7,11 @@ They’re typically organized as **Fundamentals → Intermediate → Advanced/Ex
 > This page is a curated, ready-to-track list of Ninja trainings with short abstracts.
 
 ---
+
+## Microsoft Security Copilot
+
+- [ ] **Microsoft Security Copilot Ninja (Level 400)**  
+  https://techcommunity.microsoft.com/blog/securitycopilotblog/how-to-become-a-microsoft-security-copilot-ninja-the-complete-level-400-training/4106928  
+  *Covers:* onboarding + core concepts, prompt patterns, plugins/integrations, and practical SOC workflows/automation examples.
+
+---
